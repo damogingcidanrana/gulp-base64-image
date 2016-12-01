@@ -4,7 +4,7 @@
       "url" : "https://github.com/damogingcidanrana/gulp-base64-image"
     },
   "name": "gulp-base64-image",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "inline images as base64",
   "main": "index.js",
   "scripts": {},
